@@ -1,1 +1,1 @@
-print("prova")
+print("prova script")
