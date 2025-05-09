@@ -1,1 +1,1 @@
-print('Exercise on Git')
+print('Exercise on Git - second round')
